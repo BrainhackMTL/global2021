@@ -11,35 +11,35 @@ paginate = 6
 ############################## navigation ###############################
 [menu]
     
-  [[menu.main]]
-  name = "Mattermost"
-  URL = "mattermost"
-  weight = 1
+[[menu.main]]
+name = "Mattermost"
+URL = "mattermost"
+weight = 1
   
-  [[menu.main]]
-  name = "About"
-  URL = "chapters"
-  weight = 2
+[[menu.main]]
+name = "About"
+URL = "chapters"
+weight = 2
   
-  [[menu.main]]
-  name = "Instructors"
-  URL = "reviews"
-  weight = 3
+[[menu.main]]
+name = "Instructors"
+URL = "reviews"
+weight = 3
   
-  [[menu.main]]
-  name = "Schedule"
-  URL = "devices"
-  weight = 4
+[[menu.main]]
+name = "Schedule"
+URL = "devices"
+weight = 4
     
-  [[menu.main]]
-  name = "Projects"
-  URL = "projects"
-  weight = 4
+[[menu.main]]
+name = "Projects"
+URL = "projects"
+weight = 4
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
 
 
 #################### default parameters ################################
@@ -98,22 +98,22 @@ link = "#"
 ############################# Plugins ##############################
 [params.plugins]
 
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/magnific-popup/magnific-popup.css"
+# CSS Plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
   
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/magnific-popup/magnific-popup.min.js"
+# JS Plugins
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/magnific-popup.min.js"
