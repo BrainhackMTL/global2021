@@ -3,43 +3,13 @@ banner:
   enable: true
   writter: "Montreal Edition of"
   title: "Brainhack Global"
-  image: "images/logo.png"
+  image: "images/logo.jpg"
   content: |
     Brainhack is a collaborative event that focuses on the open sharing of ideas, code, and data. 
-    From **February 15th to 26th**, we will meet virtually in Montreal to learn from each ther, 
+    From **December 6-10**, we will meet virtually in Montreal to learn from each ther, 
     work collaboratively on cool projects, and plant the seeds of future adventures (whether online or in person!). **#BHMTL2021**
   price: "2021"
   button: Know more
-
-######################## Book Preview ##########################
-#preview:
-#  enable : false
-#  pagePreview:
-#    # page preview loop
-#    - image : "images/about/book_page.png"
-#    - image : "images/about/book_page2.png"
-#    - image : "images/about/book_page.png"
-#
-#  title : "Look Inside the book"
-#  content : "
-#  This lovely, well-written book is concerned with creating typography and is essential for professionals who regularly work for clients.
-#
-#
-#  Dolor quam consectetur corrupti, dignissimos sequi. Nihil totam alias, ipsa facere quibusdam, modi accusamus quod quae quaerat.
-#  "
-#
-#  inside:
-#    # book inside item loop
-#    - insideItem : "7 Chapter"
-#    - insideItem : "Explained Details"
-#    - insideItem : "Clear Understanding"
-#    - insideItem : "Best practices"
-#
-# button
-#  button:
-#    enable : true
-#    label : "Purchase on Amazon"
-#    link : "#"
 
 ########################## About ##############################
 about:
@@ -125,92 +95,18 @@ reviews:
   subtitle: "we are going to listen to, learn from, and chat with:"
   review:
     # review item loop
-    - name: "Yann Harel"
-      image: "images/client/yann.jpg" # image size 80*80 px
-      designation: "CoCoLab, Université de Montréal"
+    - name: "Speaker"
+      image: "images/client/udem.png" # image size 80*80 px
+      designation: "Institute"
       content:
-        "**An overview of MNE-Python**, including a hands-on on common use cases
-        and recommendations for designing a M/EEG analysis pipeline, from raw
-        data to power and connectivity measures."
+        "**Talk title**, description."
 
     # review item loop
-    - name: "Dorota Jarecka"
-      image: "images/client/dj.jpeg" # image size 80*80 px
-      designation: "Massachusetts Institute of Technology"
+    - name: "Speaker"
+      image: "images/client/mcgill.png" # image size 80*80 px
+      designation: "Institute"
       content:
-        "**Introduction to Pydra - a new workflow engine for Nipype 2.0**"
-
-    # review item loop
-    - name: "Danilo Bzdok"
-      image: "images/client/danilo.jpg" # image size 80*80 px
-      designation:
-        "Dpt. of Biomedical Engineering, Faculty of Medicine, McGill University
-        / Mila - Quebec AI Institute"
-      content:
-        "**Machine-learning workflows for high-dimensional neuromaging
-        datasets**"
-
-      # review item loop
-    - name: "Ella Gabitov"
-      image: "images/client/eg.png" # while waiting for proper one
-      designation:
-        " McConnell Brain Imaging Centre, Montreal Neurological Institute,
-        McGill University"
-      content: "**Questioning our questions and models in neuroimaging**"
-
-    # review item loop
-    - name: "Guillaume Dumas"
-      image: "images/client/gui.jpg" # image size 80*80 px
-      designation:
-        "CHU Sainte-Justine / Dpt. of Psychiatry, Université de Montréal / Mila
-        - Quebec AI Institute"
-      content:
-        "**Introduction to Python & to Julia** and **Experimenting with
-        reproducibility in bio/neuro-informatics**"
-
-    # review item loop
-    - name: "Kendra Oudyk"
-      image: "images/client/kendra.jpeg" # image size 80*80 px
-      designation: "McGill University"
-      content: "**Git & Github Tutorial + Q&A**"
-
-    # review item loop
-    - name: "Anibal Solon"
-      image: "images/client/ani.png" # image size 80*80 px
-      designation:
-        "Computational Neuroimaging Lab, The University of Texas at Austin"
-      content: "**Git & Github Tutorial + Q&A**"
-
-    # review item loop
-    - name: "Sebastian Urchs"
-      image: "images/client/seb.JPG" # image size 80*80 px
-      designation:
-        "Montreal Neurological Institute, Origami Lab / Douglas Research Centre,
-        CoBra Lab"
-      content:
-        "**Let the visualization do the work**: how interactive visualization
-        can make your life easier and your figures pretty to look at."
-
-    # review item loop
-    - name: "Loic Tetrel"
-      image: "images/client/loic.jpeg" # image size 80*80 px
-      designation: "SIMEXP lab, CRIUGM"
-      content:
-        "**Hands on Neurolibre, a cloud-based and curated repository for jupyter
-        notebooks in neuroscience.**"
-
-    # review item loop
-    - name: "Jean-Baptiste Poline"
-      image: "images/client/jp.png" # image size 80*80 px
-      designation:
-        "Montreal Neurological Institute, McGill University/ NeuroHub"
-      content: "**Questioning our questions and models in neuroimaging**"
-
-    # review item loop
-    - name: "Patrick Mineault"
-      image: "images/logo.png" # while waiting for proper one
-      designation: "tbd"
-      content: "**Test-driven development**"
+        "**Talk title**, description."
 
 #################################### device ################################
 devices:
@@ -218,7 +114,7 @@ devices:
   title: "Schedule"
   content:
     "Find our schedule on Google Calendar
-    [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dTM2ZGgydWRsODdjNmFtYXMyb3Rha2RobmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457)!"
+    [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&src=ufongpipngga12td0mk043j5ts%40group.calendar.google.com&ctz=America%2FNew_York)!"
   # image : "images/about/ipad.jpg"
   # content:
   # feature item loop
@@ -255,7 +151,7 @@ devices:
 
 ################################ Awards #####################################
 awards:
-  enable: true
+  enable: false
   title: "Brought to you by"
   award:
     # award item loop
@@ -311,7 +207,7 @@ contact:
     - title: "Brainhack Global main website"
       icon: "ti-world" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem: "[brainhack.org/global2020](https://brainhack.org/global2020)"
+        - listItem: "[brainhack.org/global2020](https://brainhack.org/global2021)"
 
     # contact Item loop
     - title: "Email"
@@ -324,5 +220,5 @@ contact:
       icon: "ti-help" # themify icon pack : https://themify.me/themify-icons
       list:
         - listItem:
-            "Read this [FAQ](https://brainhack.org/global2020/faq/) or use the
+            "Read this [FAQ](https://brainhack.org/global2021/faq/) or use the
             [chat](https://mattermost.brainhack.org/brainhack/channels/brainhack-mtl-2021)"
