@@ -6,7 +6,7 @@ banner:
   image: "images/logo.jpg"
   content: |
     Brainhack is a collaborative event that focuses on the open sharing of ideas, code, and data. 
-    From **December 6-10**, we will meet virtually in Montreal to learn from each ther, 
+    From **December 6-10**, we will meet virtually in Montreal to learn from each other, 
     work collaboratively on cool projects, and plant the seeds of future adventures (whether online or in person!). **#BHMTL2021**
   price: "2021"
   button: Know more
@@ -192,7 +192,7 @@ otherBooks:
 blog:
   enable: true
   title: "Projects"
-  subtitle: "Feel free to join any project you are interested in!"
+  subtitle: "Project submissions open soon!<br>Feel free to join any project you are interested in!"
 # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
