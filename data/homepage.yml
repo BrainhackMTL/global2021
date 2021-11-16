@@ -64,9 +64,9 @@ chapters:
     - title: "Projects"
       content:
         "Lots of free hacking time to tinker with a project of your choice. You
-        can browse already submitted
-        [projects](https://brainhack.org/global2020/projects/) and get ready to
-        pitch your own during our first day "
+        submit or join a
+        [project](https://brainhack.org/global2021/projects/) and get ready to
+        pitch your own during our first day"
 
     # chapter preview loop
     - title: "Unconferences"
@@ -80,9 +80,7 @@ chapters:
     - title: "Socials"
       content:
         "Meet or check-in with experts and peers, share ideas, and plant the
-        seeds of future collaborations. There's gonna be a gathertown space full
-        of games and a trivia night! We'll miss the physical high-fives, but
-        we'll be there for you!"
+        seeds of future collaborations!"
 
     # # chapter preview loop
     # - title : "Chapter 5"
@@ -90,7 +88,7 @@ chapters:
 
 ########################## Revews ###########################
 reviews:
-  enable: true
+  enable: false
   title: "Tutors & Instructors"
   subtitle: "we are going to listen to, learn from, and chat with:"
   review:
@@ -192,7 +190,7 @@ otherBooks:
 blog:
   enable: true
   title: "Projects"
-  subtitle: "Project submissions open soon!<br>Feel free to join any project you are interested in!"
+  subtitle: "Project submissions are open! Please submit your project by 1st December or feel free to join any project you are interested in!"
 # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
