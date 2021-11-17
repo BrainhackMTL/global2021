@@ -205,7 +205,7 @@ contact:
     - title: "Brainhack Global main website"
       icon: "ti-world" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem: "[brainhack.org/global2020](https://brainhack.org/global2021)"
+        - listItem: "[brainhack.org/global2021](https://brainhack.org/global2021)"
 
     # contact Item loop
     - title: "Email"
